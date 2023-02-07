@@ -56,7 +56,7 @@
                 </goals>
                 <configuration>
                     <!-- Change output dir or comment out plugin if not needed-->
-                    <outputDirectory>${basedir}/../scout/plugin/</outputDirectory>
+                    <outputDirectory>${basedir}/../Scout_definitivo/plugin/</outputDirectory>
                     <resources>
                         <resource>
                             <directory>${basedir}/target/classes/plugin</directory>

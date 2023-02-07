@@ -1,0 +1,1102 @@
+167568099344858 widget chi siamo in:
+Home - eshop
+che porta a Home - eshop - contatti con next-state avente state-id: 167568099497610
+dopo Home - eshop - contatti  ci sta lo stato eshop, quindi torna indietro a Home - eshop
+Vedere screenshot per capire quale sia lo stato in contatti
+
+
+{
+  "product": "MagiGiovanni",
+  "paths": [],
+  "all-widgets": [
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 43.3998252225,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[3]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Chi siamo",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/chi-siamo\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681028663,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "897",
+        "width": "104",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568102437528",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 67.6361088,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681482947,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568143492073",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 34.659683938631275,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[4]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Contatti",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/contatti\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681006254,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "1002",
+        "width": "92",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568099344858",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 36.0,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[4]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Contatti",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/contatti\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681070979,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "1019",
+        "width": "92",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568107010330",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "UNLOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 17.556299248159075,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[4]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Contatti",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/contatti\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675680988885,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "1002",
+        "width": "92",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568098701366",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 34.2,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[3]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Chi siamo",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/chi-siamo\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681090987,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "897",
+        "width": "104",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568108970457",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 42.62761764726946,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[3]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Chi siamo",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/chi-siamo\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681011309,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "897",
+        "width": "104",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568098997919",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 25.478052594913414,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "FUNGHI E TARTUFI",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/home\/",
+        "title": "",
+        "type": "",
+        "class": "b-l-link logo-link"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675680979301,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "34",
+        "width": "271",
+        "y": "23",
+        "height": "35"
+      },
+      "id": "167568097143078",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 29.322225,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681052400,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568105182172",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 23.88313552640625,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[1]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Home",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/home\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681038577,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "750",
+        "width": "64",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568103739512",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 27.85611375,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[4]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Contatti",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/contatti\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681048234,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "1002",
+        "width": "92",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568104739280",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 35.2,
+      "meta-data": {},
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681081830,
+      "created-by-plugin": null,
+      "subtype": "GO_HOME_ACTION",
+      "comment": null,
+      "location": {
+        "x": "10",
+        "width": "80",
+        "y": "10",
+        "height": "40"
+      },
+      "id": "167568108183048",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 65.26726819786128,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[1]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Home",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/home\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681056593,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "750",
+        "width": "64",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568093901032",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 40.98164626948787,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[1]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Home",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/home\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675680981643,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "750",
+        "width": "64",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568094106022",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 52.24392,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[4]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Contatti",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/contatti\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681040559,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "1002",
+        "width": "92",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568103335360",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 49.81298987378844,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681018070,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568099116987",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 32.49,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681065549,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "832",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568106499694",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 26.25052625057257,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[3]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Chi siamo",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/chi-siamo\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675680986219,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "897",
+        "width": "104",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568096083963",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 50.76135624240419,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681057439,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568094687434",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 32.49,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[4]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Contatti",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/contatti\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681083748,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "1002",
+        "width": "92",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568108311930",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 25.140142659374998,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[3]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Chi siamo",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/chi-siamo\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681015239,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "897",
+        "width": "104",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568101478757",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 36.0,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[1]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Home",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/home\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681096787,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "750",
+        "width": "64",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568109610475",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "UNLOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 30.8655,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675680938321,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568093795598",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 20.0,
+      "meta-data": {},
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681094203,
+      "created-by-plugin": null,
+      "subtype": "GO_HOME_ACTION",
+      "comment": null,
+      "location": {
+        "x": "10",
+        "width": "80",
+        "y": "10",
+        "height": "40"
+      },
+      "id": "167568109420229",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "UNLOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 52.453225215057444,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[1]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Home",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/home\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681030945,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "750",
+        "width": "64",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167568096280886",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 57.888,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/main[1]\/div[1]\/div[1]\/section[2]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[2]\/div[1]\/div[2]\/div[1]\/div[1]\/article[2]\/div[1]\/a[1]",
+        "name": "",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/p\/tartufo-bianco2\/",
+        "id": "",
+        "type": "",
+        "title": "",
+        "class": ""
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675681068544,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "343",
+        "width": "273",
+        "y": "213",
+        "height": "349"
+      },
+      "id": "167568105875457",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "LOCATED"
+    }
+  ],
+  "state": {
+    "bookmarks": "Home",
+    "visible-widgets": [
+      {
+        "next-state": {
+          "bookmarks": null,
+          "visible-widgets": [],
+          "product-version": [],
+          "state-id": "167568108374819",
+          "meta-data": {}
+        },
+        "id": "167568108311930"
+      },
+      {
+        "next-state": {
+          "bookmarks": null,
+          "visible-widgets": [],
+          "product-version": [],
+          "state-id": "167568109678721",
+          "meta-data": {}
+        },
+        "id": "167568109610475"
+      },
+      {
+        "next-state": {
+          "bookmarks": null,
+          "visible-widgets": [
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "16756809423683",
+                      "meta-data": {}
+                    },
+                    "id": "167568094106022"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "16756809476794",
+                      "meta-data": {}
+                    },
+                    "id": "167568094687434"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "167568102546212",
+                      "meta-data": {}
+                    },
+                    "id": "167568102437528"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "167568103407513",
+                      "meta-data": {}
+                    },
+                    "id": "167568103335360"
+                  }
+                ],
+                "product-version": [],
+                "state-id": "16756809396932",
+                "meta-data": {}
+              },
+              "id": "167568093901032"
+            },
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [],
+                "product-version": [],
+                "state-id": "16756809476794",
+                "meta-data": {}
+              },
+              "id": "167568094687434"
+            },
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "16756809632066",
+                      "meta-data": {}
+                    },
+                    "id": "167568096280886"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [
+                        {
+                          "next-state": {
+                            "bookmarks": null,
+                            "visible-widgets": [],
+                            "product-version": [],
+                            "state-id": "16756809906668",
+                            "meta-data": {}
+                          },
+                          "id": "167568098997919"
+                        },
+                        {
+                          "next-state": {
+                            "bookmarks": null,
+                            "visible-widgets": [],
+                            "product-version": [],
+                            "state-id": "167568103739513",
+                            "meta-data": {}
+                          },
+                          "id": "167568103739512"
+                        },
+                        {
+                          "next-state": {
+                            "bookmarks": null,
+                            "visible-widgets": [],
+                            "product-version": [],
+                            "state-id": "167568104823414",
+                            "meta-data": {}
+                          },
+                          "id": "167568104739280"
+                        },
+                        {
+                          "next-state": {
+                            "bookmarks": null,
+                            "visible-widgets": [],
+                            "product-version": [],
+                            "state-id": "167568105240015",
+                            "meta-data": {}
+                          },
+                          "id": "167568105182172"
+                        },
+                        {
+                          "next-state": null,
+                          "id": "167568108183048"
+                        }
+                      ],
+                      "product-version": [],
+                      "state-id": "16756809888857",
+                      "meta-data": {}
+                    },
+                    "id": "167568098701366"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "16756809921279",
+                      "meta-data": {}
+                    },
+                    "id": "167568099116987"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "167568101523911",
+                      "meta-data": {}
+                    },
+                    "id": "167568101478757"
+                  },
+                  {
+                    "next-state": null,
+                    "id": "167568109420229"
+                  }
+                ],
+                "product-version": [],
+                "state-id": "16756809611605",
+                "meta-data": {}
+              },
+              "id": "167568096083963"
+            },
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [],
+                "product-version": [],
+                "state-id": "167568097143079",
+                "meta-data": {}
+              },
+              "id": "167568097143078"
+            },
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "16756814358211",
+                      "meta-data": {}
+                    },
+                    "id": "167568143492073"
+                  }
+                ],
+                "product-version": [],
+                "state-id": "167568099497610",
+                "meta-data": {}
+              },
+              "id": "167568099344858"
+            },
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "167568106554917",
+                      "meta-data": {}
+                    },
+                    "id": "167568106499694"
+                  },
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "167568107097918",
+                      "meta-data": {}
+                    },
+                    "id": "167568107010330"
+                  }
+                ],
+                "product-version": [],
+                "state-id": "167568105935916",
+                "meta-data": {}
+              },
+              "id": "167568105875457"
+            }
+          ],
+          "product-version": [],
+          "state-id": "16756809383211",
+          "meta-data": {}
+        },
+        "id": "167568093795598"
+      },
+      {
+        "next-state": {
+          "bookmarks": null,
+          "visible-widgets": [],
+          "product-version": [],
+          "state-id": "167568109098720",
+          "meta-data": {}
+        },
+        "id": "167568108970457"
+      }
+    ],
+    "product-version": [],
+    "state-id": "0",
+    "meta-data": {
+      "page_content": "40046",
+      "no_clones": "0",
+      "no_widgets": "4"
+    }
+  },
+  "last-updated-at-ms": 1675681595565,
+  "issues": []
+}

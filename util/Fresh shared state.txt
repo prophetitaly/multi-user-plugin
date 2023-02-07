@@ -1,0 +1,157 @@
+{
+  "product": "MagiGiovanni",
+  "paths": [],
+  "all-widgets": [
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 34.2,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[3]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "Chi siamo",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/chi-siamo\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675709695631,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "897",
+        "width": "104",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167570969447056",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "UNLOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 36.0,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675709697972,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167570969761981",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "UNLOCATED"
+    },
+    {
+      "visibility": "VISIBLE",
+      "reported-text": null,
+      "weight": 36.0,
+      "meta-data": {
+        "xpath": "\/html[1]\/body[1]\/div[1]\/div[1]\/header[1]\/div[1]\/div[1]\/section[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/nav[1]\/div[1]\/ul[1]\/li[2]\/a[1]",
+        "name": "",
+        "id": "",
+        "text": "E-shop",
+        "tag": "A",
+        "href": "https:\/\/magi-giovanni-funghi-e-tartufi.webnode.it\/e-shop\/",
+        "title": "",
+        "type": "",
+        "class": "menu-item"
+      },
+      "reported-by": null,
+      "type": "ACTION",
+      "created-date-ms": 1675709694110,
+      "created-by-plugin": null,
+      "subtype": "LEFT_CLICK_ACTION",
+      "comment": null,
+      "location": {
+        "x": "815",
+        "width": "82",
+        "y": "16",
+        "height": "50"
+      },
+      "id": "167570969341098",
+      "text": null,
+      "created-by": "Alberto",
+      "status": "UNLOCATED"
+    }
+  ],
+  "state": {
+    "bookmarks": "Home",
+    "visible-widgets": [
+      {
+        "next-state": {
+          "bookmarks": null,
+          "visible-widgets": [
+            {
+              "next-state": {
+                "bookmarks": null,
+                "visible-widgets": [
+                  {
+                    "next-state": {
+                      "bookmarks": null,
+                      "visible-widgets": [],
+                      "product-version": [],
+                      "state-id": "16757096979723",
+                      "meta-data": {}
+                    },
+                    "id": "167570969761981"
+                  }
+                ],
+                "product-version": [],
+                "state-id": "16757096956312",
+                "meta-data": {
+                  "page_content": "24031",
+                  "no_clones": "0",
+                  "no_widgets": "1"
+                }
+              },
+              "id": "167570969447056"
+            }
+          ],
+          "product-version": [],
+          "state-id": "16757096941101",
+          "meta-data": {
+            "page_content": "24031",
+            "no_clones": "0",
+            "no_widgets": "1"
+          }
+        },
+        "id": "167570969341098"
+      }
+    ],
+    "product-version": [],
+    "state-id": "0",
+    "meta-data": {
+      "product_id": "3294",
+      "page_content": "40071",
+      "no_clones": "0",
+      "no_widgets": "1"
+    }
+  },
+  "last-updated-at-ms": 1675709828733,
+  "issues": []
+}
